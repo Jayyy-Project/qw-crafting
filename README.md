@@ -8,7 +8,7 @@
 QBCore Customizable Crafting System
 
 # Preview
-(https://i.imgur.com/UxvLsFE.jpg)
+[(https://i.imgur.com/UxvLsFE.jpg)](https://i.imgur.com/UxvLsFE.jpg)
 
 # Install
 - setup your inventory resource in the config under `Config.Inventory`
